@@ -10,6 +10,7 @@ public class Testgit
 	{
 		// TODO Auto-generated method stub
 		System.out.println("Hello World! from Eclipse!");
+		System.out.println("Test the git in eclipse!");
 	}
 
 }
