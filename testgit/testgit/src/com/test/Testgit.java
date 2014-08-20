@@ -13,6 +13,7 @@ public class Testgit
 		System.out.println("Test the git in eclipse!");
 		
 		System.out.println("Hello World!!!!");
+		System.out.println("nice to meet you!");
 	}
 
 }
